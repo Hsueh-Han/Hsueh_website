@@ -5,7 +5,8 @@
         <div class="row justify-content-center">
           <div class="col-10 col-lg-6 text-center">
             <h2 class="projects-title mb-0">Projects</h2>
-            <p class="font-italic">Every project is my most precious asset.</p>
+            <p class="mb-0 font-italic">"It is often said that time changes things,</p>
+            <p class="mb-0 font-italic">but you actually have to change them on your own."</p>
             <el-divider></el-divider>
           </div>
         </div>
@@ -26,7 +27,7 @@
           <div class="col-8 col-lg-3 mt-lg-5 mb-5 projects-card project-card-img-2
           border border-white">
             <div class="projects-hover-bg p-3 projects-hover-bg-img-2">
-              <a href="#" target="_blank"
+              <a href="#"
               class="projects-content text-dark h-100">
                 <div class="h-100 d-flex flex-column p-3 justify-content-center align-items-center">
                   <h3 class="text-center mb-0">Coming soon</h3>

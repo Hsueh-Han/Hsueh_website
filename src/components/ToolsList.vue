@@ -28,7 +28,7 @@ export default {
     return {
       skillData: [
         {
-          skill: 'BootStrap (v4)',
+          skill: 'Bootstrap (v4)',
           score: 5,
           describe: [],
         },
