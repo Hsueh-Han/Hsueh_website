@@ -86,7 +86,7 @@ export default {
 <style lang="scss">
   .exp-title, .skill-title{
     font-size: 2rem;
-    font-family: cursive;
+    font-family: Didot, serif;
   }
   .now-point .el-timeline-item__wrapper .is-top{
     font-weight: 600;

@@ -30,13 +30,15 @@
   }
 }
 .enter-font-family{
-  font-family: cursive;
+  font-family: Didot, serif;
 }
 h1.enter-title{
+  font-weight: 400;
   font-size: 50px;
   color: #ffffff;
 }
 h2.enter-title{
+  font-weight: 200;
   font-size: 25px;
   color: #ffffff;
   @media (min-width: 768px) {

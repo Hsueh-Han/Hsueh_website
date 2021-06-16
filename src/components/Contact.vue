@@ -148,7 +148,7 @@ export default {
   .contact-title{
     text-align: center;
     font-size: 28px;
-    font-family: cursive;
+    font-family: Didot, serif;
   }
   .contact-input-group{
     background: rgb(226, 221, 218);

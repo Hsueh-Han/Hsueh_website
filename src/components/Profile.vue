@@ -22,7 +22,7 @@
           </p>
           <p>
             訂立宏觀計畫、不拘泥於渺小格局, 樂於技術交流、專注於技術精進、突破昔日自我, <br>
-            這是我的信條、也是我深信自我能夠維持穩定成長的方法。
+            這是我的信條、也是我深信能夠維持自我穩定成長的方法。
           </p>
           <p class="font-italic mt-5">“ 脫口而出的熱情向來都不太真實，唯有足以深植人心的才是 ”</p>
           <p class="font-italic indent-16 text-right">—— Hsueh-Han, Jun 2021</p>
@@ -99,7 +99,7 @@ export default {
   }
   .profile-title{
     line-height: 1.2;
-    font-family: cursive;
+    font-family: Didot, serif;
     font-size: 25px;
     @media (min-width: 768px) {
       font-size: 30px;

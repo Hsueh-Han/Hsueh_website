@@ -16,7 +16,7 @@
               <a href="https://hsueh-han.github.io/WalkDog/" target="_blank"
               class="projects-content text-dark h-100">
                 <div class="h-100 d-flex flex-column p-3 justify-content-center align-items-center">
-                  <h3 class="text-center mb-0">Walk The Dog in Taipei</h3>
+                  <h2 class="text-center mb-0 project-content-title">Walk The Dog in Taipei</h2>
                   <el-divider><i class="el-icon-link"></i></el-divider>
                   <p class="fz-14">台北市毛孩便袋地圖<br>open data API、leaflet 整合而成</p>
                   <p class="fz-14">bootstrap、leaflet、markercluster</p>
@@ -30,7 +30,7 @@
               <a href="#"
               class="projects-content text-dark h-100">
                 <div class="h-100 d-flex flex-column p-3 justify-content-center align-items-center">
-                  <h3 class="text-center mb-0">Coming soon</h3>
+                  <h2 class="text-center mb-0 project-content-title">Coming soon</h2>
                   <el-divider><i class="el-icon-link"></i></el-divider>
                   <p class="fz-14">this project will be coming soon...</p>
                 </div>
@@ -42,7 +42,7 @@
               <a href="https://hsueh-han.github.io/HanShop/" target="_blank"
               class="projects-content text-dark h-100">
                 <div class="h-100 d-flex flex-column p-3 justify-content-center align-items-center">
-                  <h3 class="text-center mb-0">Sunset Accessory Shop</h3>
+                  <h2 class="text-center mb-0 project-content-title">Sunset Accessory Shop</h2>
                   <el-divider><i class="el-icon-link"></i></el-divider>
                   <p class="fz-14">電商範例網站<br>包含前、後台 API 完整功能實作</p>
                   <p class="fz-14">Vuex、bootstrap、vee-validate</p>
@@ -66,7 +66,10 @@ export default {
 <style lang="scss">
   .projects-title{
     font-size: 2.5rem;
-    font-family: cursive;
+    font-family: Didot, serif;
+  }
+  .project-content-title{
+    font-family: Didot, serif;;
   }
   .projects-card{
     position: relative;
