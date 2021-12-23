@@ -9,7 +9,7 @@
       col-12 col-md-6 col-xxxl-4 p-5 d-flex flex-column justify-content-center"
       :class="{'opacity-animation-right': scrollTop > 0}">
         <h2 class="profile-title">
-          My passion and focus is <br>front-end web development.
+          My passion and focus is <br>front-end web development.123
         </h2>
         <el-divider></el-divider>
         <div class="fz-14">
