@@ -38,23 +38,13 @@ export default {
           skill: 'JavaScript',
           score: 4.5,
           describe: [
-            'Events、Prototype、AJAX、ES6、Axios interceptors',
+            'Events、Prototype、AJAX、ES6、Async/Await、Axios interceptors',
           ],
         },
         {
           skill: 'CSS 3 / SASS / SCSS',
           score: 4.5,
           describe: ['BEM、RWD、Animation。'],
-        },
-        {
-          skill: 'Node.js',
-          score: 3.5,
-          describe: ['Firebase、Web-Socket、Restful API'],
-        },
-        {
-          skill: 'Nuxt.js',
-          score: 3,
-          describe: [],
         },
         {
           skill: 'GULP',
@@ -65,6 +55,16 @@ export default {
           skill: 'jQuery',
           score: 3,
           describe: [],
+        },
+        {
+          skill: 'Nuxt.js',
+          score: 2.5,
+          describe: [],
+        },
+        {
+          skill: 'Node.js',
+          score: 2.5,
+          describe: ['Firebase、Web-Socket、Restful API'],
         },
       ],
     };

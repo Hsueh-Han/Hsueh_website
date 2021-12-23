@@ -9,26 +9,26 @@
       col-12 col-md-6 col-xxxl-4 p-5 d-flex flex-column justify-content-center"
       :class="{'opacity-animation-right': scrollTop > 0}">
         <h2 class="profile-title">
-          My passion and focus is <br>front-end web development.123
+          My passion and focus is <br>front-end web development.
         </h2>
         <el-divider></el-divider>
         <div class="fz-14">
           <p>Hsueh-Han, Chen ——</p>
           <p>
-            一位極富熱忱與時刻保持專注的前端開發者,<br>
-            以謙遜且不失自信的姿態, 在工作之餘仍持續自我精進並堅持到今日,<br>
-            當您瀏覽到此處的同時, 也是我踏上這條旅途的第 <span>{{day}}</span> 天,<br>
-            邏輯思考、理性思維、重視紀律、優雅開發, 都是我在工作中最至高的核心觀念,<br>
+            我是一位極富熱忱與時刻保持專注的前端開發者,<br>
+            重視技術成長更是大於其它事物,<br>
+            <!-- 當您瀏覽到此處的同時, 也是我踏上這條旅途的第 <span>{{day}}</span> 天,<br> -->
+            邏輯思考、理性思維、重視紀律、優雅開發, 是我在工作中的核心理念,<br>
           </p>
           <p>
-            訂立宏觀計畫、不拘泥於渺小格局, 樂於技術交流、專注於技術精進、突破昔日自我, <br>
-            這是我的信條、也是我深信能夠維持自我穩定成長的方法。
+            我重視具有計畫性的去執行每一項任務與挑戰,<br>
+            並且認為嘗試困難的項目才是讓自身獲得巨幅成長的唯一關鍵
           </p>
-          <p class="font-italic mt-5">“ 脫口而出的熱情向來都不太真實，唯有足以深植人心的才是 ”</p>
-          <p class="font-italic indent-16 text-right">—— Hsueh-Han, Jun 2021</p>
+          <p class="font-italic mt-5">“ 脫口而出的熱情向來都不太真實，唯有拿出相對的實力才是 ”</p>
+          <p class="font-italic indent-16 text-right">—— Hsueh-Han, Dec 2021</p>
           <el-divider></el-divider>
           <p>
-            若您也正在尋找具有相似特質的事業同仁, 我將隨時等候您的聯繫！
+            若您也正在尋找優秀事業同仁, 我將隨時等候您的聯繫！
           </p>
           <div class="text-right">
             <button class="quick-contact-btn"

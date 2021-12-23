@@ -31,9 +31,17 @@
                 </a>
               </h3>
               <p class="mb-0">這是一間整合資料、人流、大數據等資訊的新創科技公司, 在此獲得前端開發正式工作,</p>
-              <p class="mb-0">主要負責開發 Dashboard、各類圖表、動態移動軌跡等項目, 其次為邏輯及視覺呈現的設計參與,</p>
-              <p class="mb-0">開發主力在於 chart.js、D3.js、多國語系、驗證機制等技術, 完善多元資料的狀態處理與設計實現化,</p>
-              <p class="mb-0">期間也同時在個人時間增加 Node.js、Nuxt.js 自主學習項目。</p>
+              <p>期間負責多人協作、更新維護 1~2 個現有專案，並在以下二個專案中擔任主力前端開發職務,</p>
+              <p class="mb-0">首個負責專案為
+                <a href="#/wiside" target="_blank">Wiside 資料數據平台</a>
+                ，其包含圖表呈現、動態移動軌跡等項目, 同時也參與邏輯及視覺呈現構思,</p>
+              <p class="mb-0">技術主力在於 chart.js、D3.js、多國語系、驗證機制等技術, 完善多元資料的狀態管理與設計實現化,</p>
+              <p>然而，此專案產品也於 2021年 8月份順利上線服務。</p>
+              <p class="mb-0">第二個負責專案為 以藍芽 Beacon 偵測訊號 為核心的
+                <a href="#/wiad" target="_blank">WiAD 廣告投放平台</a>
+                ,</p>
+              <p class="mb-0">其功能包含：完整的用戶權限架構、上下架廣告素材/排程、複雜表單、資料匯入/匯出、20個頁面以上 CRUD 操作等,</p>
+              <p>然而，此專案產品也順利於 2021年末達成第一版完工之進度。</p>
             </el-card>
           </el-timeline-item>
           <el-timeline-item class="now-point" timestamp="Now" placement="top"

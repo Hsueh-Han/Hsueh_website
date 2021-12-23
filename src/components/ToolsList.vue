@@ -38,7 +38,7 @@ export default {
           describe: [],
         },
         {
-          skill: 'Chart.js (v2)',
+          skill: 'Chart.js (v2、v3)',
           score: 5,
           describe: [],
         },
@@ -54,7 +54,7 @@ export default {
         },
         {
           skill: 'D3.js (v5)',
-          score: 3.5,
+          score: 4,
           describe: [],
         },
       ],
