@@ -85,12 +85,12 @@
                   <a href="https://github.com/Hsueh-Han"
                   target="_blank"> link <i class="el-icon-link"></i></a>
                 </p>
-                <p>yourator:
+                <!-- <p>yourator:
                   <a href="https://www.yourator.co/r/871835ef-b4fb-45d9-989e-8c554e1e9488"
                   target="_blank"> link <i class="el-icon-link"></i></a>
-                </p>
+                </p> -->
                 <p>104:
-                  <a href="#"
+                  <a href="https://pda.104.com.tw/profile/share/jHEe6j3kfL9cynvWAuQRBkyWeIofC3Qp"
                   target="_blank"> link <i class="el-icon-link"></i></a>
                 </p>
                 <el-divider></el-divider>

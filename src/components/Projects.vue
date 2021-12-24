@@ -33,7 +33,8 @@
                 <div class="h-100 d-flex flex-column p-3 justify-content-center align-items-center">
                   <h2 class="text-warning mb-0"><i class="fas fa-star"></i></h2>
                   <h2 class="text-center mb-0 project-content-title">
-                    Wiside 數據平台 - 上線中產品
+                    Wiside 數據平台<br>
+                    <small>上線中產品</small>
                   </h2>
                   <el-divider><i class="el-icon-link"></i></el-divider>
                   <p class="fz-14">
@@ -80,7 +81,7 @@ export default {
   }
   .projects-card{
     position: relative;
-    height: 300px;
+    height: 330px;
     cursor: pointer;
     @media (min-width: 1200px) {
       height: 450px;
