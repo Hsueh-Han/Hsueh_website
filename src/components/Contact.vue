@@ -81,18 +81,18 @@
                 <p>Location: Taiwan, Taipei City.</p>
                 <p>E-mail: cookie5year@gmail.com</p>
                 <p>Line-id: aviku</p>
-                <p>GitHub:
+                <!-- <p>GitHub:
                   <a href="https://github.com/Hsueh-Han"
                   target="_blank"> link <i class="el-icon-link"></i></a>
-                </p>
+                </p> -->
                 <!-- <p>yourator:
                   <a href="https://www.yourator.co/r/871835ef-b4fb-45d9-989e-8c554e1e9488"
                   target="_blank"> link <i class="el-icon-link"></i></a>
                 </p> -->
-                <p>104:
+                <!-- <p>104:
                   <a href="https://pda.104.com.tw/profile/share/jHEe6j3kfL9cynvWAuQRBkyWeIofC3Qp"
                   target="_blank"> link <i class="el-icon-link"></i></a>
-                </p>
+                </p> -->
                 <el-divider></el-divider>
               </div>
             </div>

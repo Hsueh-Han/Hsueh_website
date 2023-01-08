@@ -11,18 +11,18 @@
                   <i class="el-icon-location-outline"></i>
                 </a>
               </h3>
-              <p class="mb-0">初入前端開發領域，我選擇彈性及時間靈活度較高的線上課程作為起步,</p>
+              <p class="mb-0">初入前端開發領域, 我選擇彈性及時間靈活度較高的線上課程作為起步,</p>
               <p class="mb-0">持續保持每週投入平均有 20 小時以上的學習強度,</p>
               <p class="mb-0">期間完成所有基礎前端開發課程及實作並取得相關結業證書。</p>
             </el-card>
           </el-timeline-item>
-          <el-timeline-item timestamp="Oct 2020" placement="top">
+          <!-- <el-timeline-item timestamp="Oct 2020" placement="top">
             <el-card>
               <h3>Another starting point —— Graduated from Hex School</h3>
               <p class="mb-0">進入獨立自主學習階段, 為個人設計學習路線及成長策略,</p>
               <p class="mb-0">期間持續擴增學習紀錄, 並實作 Taipei City Map、Sunset Shop 及其他個人專案成品。</p>
             </el-card>
-          </el-timeline-item>
+          </el-timeline-item> -->
           <el-timeline-item timestamp="Jan 2021" placement="top">
             <el-card>
               <h3>Taiwan Data Science Co. —— Front-end Developer
@@ -42,6 +42,23 @@
                 ,</p>
               <p class="mb-0">其功能包含：完整的用戶權限架構、上下架廣告素材/排程、複雜表單、資料匯入/匯出、20個頁面以上 CRUD 操作等,</p>
               <p>然而，此專案產品也順利於 2021年末達成第一版完工之進度。</p>
+            </el-card>
+          </el-timeline-item>
+          <el-timeline-item timestamp="Mar 2022" placement="top">
+            <el-card>
+              <h3>KKday 酷遊天股份有限公司 —— Front-end Developer
+                <a href="https://event.kkday.com/zh-tw/about/about" target="_blank">
+                  <i class="el-icon-location-outline"></i>
+                </a>
+              </h3>
+              <p>KKday 研發部門 : 新事業開發組 - 前端工程師,</p>
+              <p class="mb-0">主要負責為公司新開發的業務項目撰寫前台服務頁面, 約莫參與 9 個服務頁面的開發/維運,</p>
+              <p>如: 全球租車、歐洲鐵路、台灣高鐵、中港通巴士、韓國機票等交通票券及租車訂購服務。</p>
+              <p class="mb-0">針對現有的已上線服務進行邏輯重構、目錄遷移、持續優化專案內容( 如: 模組化、命名語意、函式通用性優化等 )</p>
+              <p>獨立負責使用 vue 3 開發交通服務行銷後台上架頁面、撰寫相關文件提供給團隊成員日後接手維運可作為參閱所使用, </p>
+              <p class="mb-0">常態為進行多人協作開發, 與團隊成員間保持開發進度的同步及溝通方面的暢通</p>
+              <p class="mb-0">注重專案程式碼內容具高度的可維護性、擴充性、以及邏輯運行的穩定性,</p>
+              <p>同時也提出並落實撰寫團隊開發項目之對應 jest unit testing、測試覆蓋率目標與技術說明文件。</p>
             </el-card>
           </el-timeline-item>
           <el-timeline-item class="now-point" timestamp="Now" placement="top"

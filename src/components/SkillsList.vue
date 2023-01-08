@@ -42,6 +42,11 @@ export default {
           ],
         },
         {
+          skill: 'Jest',
+          score: 4.5,
+          describe: ['Vue utils test、JavaScript unit testing'],
+        },
+        {
           skill: 'CSS 3 / SASS / SCSS',
           score: 4.5,
           describe: ['BEM、RWD、Animation。'],
