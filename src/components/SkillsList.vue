@@ -31,7 +31,7 @@ export default {
           skill: 'Vue',
           score: 4.5,
           describe: [
-            'Vue Cli 3、Vuex、Router、Components、Vue-transition',
+            'Vuex、Router、Composition API、Vue-transition',
           ],
         },
         {
@@ -40,6 +40,11 @@ export default {
           describe: [
             'Events、Prototype、AJAX、ES6、Async/Await、Axios interceptors',
           ],
+        },
+        {
+          skill: 'TypeScript',
+          score: 4.5,
+          describe: ['Generics、Intersection、Type Assertion'],
         },
         {
           skill: 'Jest',
@@ -52,7 +57,12 @@ export default {
           describe: ['BEM、RWD、Animation。'],
         },
         {
-          skill: 'GULP',
+          skill: 'Nuxt.js',
+          score: 4,
+          describe: [],
+        },
+        {
+          skill: '.NET Core',
           score: 3,
           describe: [],
         },
@@ -62,14 +72,9 @@ export default {
           describe: [],
         },
         {
-          skill: 'Nuxt.js',
-          score: 2.5,
-          describe: [],
-        },
-        {
           skill: 'Node.js',
           score: 2.5,
-          describe: ['Firebase、Web-Socket、Restful API'],
+          describe: [],
         },
       ],
     };

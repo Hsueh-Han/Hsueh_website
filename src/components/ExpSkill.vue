@@ -47,7 +47,7 @@
           <el-timeline-item timestamp="Mar 2022" placement="top">
             <el-card>
               <h3>KKday 酷遊天股份有限公司 —— Front-end Developer
-                <a href="https://event.kkday.com/zh-tw/about/about" target="_blank">
+                <a href="https://www.kkday.com/static/zh-tw/about/about.html" target="_blank">
                   <i class="el-icon-location-outline"></i>
                 </a>
               </h3>
@@ -59,6 +59,26 @@
               <p class="mb-0">常態為進行多人協作開發, 與團隊成員間保持開發進度的同步及溝通方面的暢通</p>
               <p class="mb-0">注重專案程式碼內容具高度的可維護性、擴充性、以及邏輯運行的穩定性,</p>
               <p>同時也提出並落實撰寫團隊開發項目之對應 jest unit testing、測試覆蓋率目標與技術說明文件。</p>
+            </el-card>
+          </el-timeline-item>
+          <el-timeline-item timestamp="Feb 2023" placement="top">
+            <el-card>
+              <h3>統智科技股份有限公司 —— Front-end Developer
+                <a href="https://www.ptc-nec.com.tw/" target="_blank">
+                  <i class="el-icon-location-outline"></i>
+                </a>
+              </h3>
+              <p>物流解決方案課 - 前端工程師,</p>
+              <p class="mb-0">負責單位新業務與既有業務專案之前端開發任務,</p>
+              <p class="mb-0">主要負責專案項目包含: 物流智能路徑規劃系統、企業資產維修管理系統、統一超商區顧問訪店數位化等專案,</p>
+              <p>另外需負責參與前端架構規劃、提供設計建議、工時評估與控管、開發、維護、測試與部署等工作項目。</p>
+              <p class="mb-0">協助單位將專案導入 CI/CD、自動化測試、源碼掃描等技術架構, 並提供實作成果報告與流程文件來協助其他專案同仁共同執行,</p>
+              <p class="mb-0">參與其他技術類型專案之支援工作, 如:.NET Core Web API Server、Cordova APP 等技術語言專案、</p>
+              <p>兼任「企業資產維修管理系統」PM、協助與指導其他 MVC 專案同仁的前端維護技術課題。</p>
+              <p class="mb-0">目前已高度並全面使用 Vue 3 Composition API 與 TypeScript 進行日常開發,</p>
+              <p class="mb-0">可獨立撰寫高度客製化與規格嚴謹的自定義共通、業務元件,</p>
+              <p class="mb-0">並具備大量數據效能處理能力、擴展性、可讀性、可維護性等設計考量,</p>
+              <p>設計及撰寫具有企業需求規格的前端系統操作架構。</p>
             </el-card>
           </el-timeline-item>
           <el-timeline-item class="now-point" timestamp="Now" placement="top"

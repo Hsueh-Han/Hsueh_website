@@ -28,7 +28,7 @@ export default {
     return {
       skillData: [
         {
-          skill: 'Bootstrap',
+          skill: 'Tailwind',
           score: 5,
           describe: [],
         },
@@ -38,7 +38,7 @@ export default {
           describe: [],
         },
         {
-          skill: 'Chart.js (v2、v3)',
+          skill: 'Chart.js',
           score: 5,
           describe: [],
         },
@@ -53,7 +53,17 @@ export default {
           describe: [],
         },
         {
-          skill: 'D3.js (v5)',
+          skill: 'D3.js',
+          score: 4,
+          describe: [],
+        },
+        {
+          skill: 'SQL Database',
+          score: 4,
+          describe: [],
+        },
+        {
+          skill: 'Azure DevOps',
           score: 4,
           describe: [],
         },
